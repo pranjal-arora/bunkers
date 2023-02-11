@@ -1,24 +1,19 @@
 {
   "name": "student-management-system",
   "version": "1.0.0",
-  "description": "Student management system made with MERN",
+  "description": "Student management system - BUNKERS,
   "main": "index.js",
   "scripts": {
     "start": "nodemon ."
   },
   "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Garima-sharma814/student-management-system.git"
+    "type": "git"
   },
   "keywords": [
     "Student-management-system"
   ],
-  "author": "Garima Sharma",
+  "author": "Pranjal Arora",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/Garima-sharma814/student-management-system/issues"
-  },
-  "homepage": "https://github.com/Garima-sharma814/student-management-system#readme",
   "dependencies": {
     "body-parser": "^1.19.0",
     "cors": "^2.8.5",
